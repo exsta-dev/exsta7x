@@ -13,4 +13,4 @@
 
 <img  align="right" width="40%" src="https://count.getloli.com/get/@:whyexsta?theme=asoul"> 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=whyexsta&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=whyexsta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117">
