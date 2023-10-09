@@ -3,5 +3,10 @@
 <div align="center">
 <img src="https://media.discordapp.net/attachments/1119183673451872256/1161023624996733058/Yeni_Proje_1.png" width="90%"></div>
 
-<img width="30%" align="right" src="https://lanyard.kyrie25.me/api/693178945306230854?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness">
-<div align="left" width="100%">
+<p align="center">
+ <a href="discord://-/users/797096076330795018" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/vante-dev" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31ofln37ijxflqlbvke75mzsm5qi?si=084cc19a48614698" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/kaanxsrd/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
+
+#
