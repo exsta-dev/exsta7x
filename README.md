@@ -2,3 +2,6 @@
 
 <div align="center">
 <img src="https://media.discordapp.net/attachments/1119183673451872256/1161023624996733058/Yeni_Proje_1.png" width="90%"></div>
+
+<img width="30%" align="right" src="https://lanyard.kyrie25.me/api/693178945306230854?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness">
+<div align="left" width="100%">
