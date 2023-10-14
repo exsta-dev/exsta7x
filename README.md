@@ -4,13 +4,13 @@
 <img src="https://media.discordapp.net/attachments/1119183673451872256/1161023624996733058/Yeni_Proje_1.png" width="90%"></div>
 
 <p align="center">
- <a href="discord://-/users/693178945306230854" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/whyexsta" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31ofln37ijxflqlbvke75mzsm5qi?si=084cc19a48614698" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a href="https://www.instagram.com/exstamcbabapro/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
+ <a href="discord://-/users/1145807221003919370" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/exsta7x" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/3153v5ds52fxgi2il6oihak54dca?si=1f856df798f0487d" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/exsta7x/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
 ## My GitHub Stats
 
 <img  align="right" width="40%" src="https://count.getloli.com/get/@:whyexsta?theme=asoul"> 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=whyexsta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=exsta7x&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117">
