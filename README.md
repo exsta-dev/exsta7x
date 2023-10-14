@@ -11,6 +11,6 @@
 
 ## My GitHub Stats
 
-<img  align="right" width="40%" src="https://count.getloli.com/get/@:whyexsta?theme=asoul"> 
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:exsta7x?theme=asoul"> 
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=exsta7x&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117">
